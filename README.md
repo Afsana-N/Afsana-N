@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 # 💫 About Me:
 🔭 I’m currently working on projects (Data analyst)<br>👯 I’m looking to collaborate on more projects<br>🤝 I’m looking for help with get more projects so that I can solve problems with building the interactive insights and dashboards<br>🌱 I’m currently learning python,R and Gava<br>💬 Ask me about dashboard creation <br>⚡ Fun fact - I am lazy but smart
